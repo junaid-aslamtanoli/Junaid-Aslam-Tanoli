@@ -1,5 +1,5 @@
 
-<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
+<!-- ANIMATED HEADER -->
 
 <div align="center">
 
@@ -19,8 +19,6 @@
 
 ---
 
-<!-- ═══════════════ BUSINESS ═══════════════ -->
-
 <h2 align="center">🏢 BUSINESS & ENTREPRENEURSHIP</h2>
 
 <div align="center">
@@ -34,7 +32,7 @@
 </div>
 
 <p align="center">
-  Focused on industrial products, international sourcing, supplier relationships, and B2B business development.
+Focused on industrial products, international sourcing, supplier relationships, and B2B business development.
 </p>
 
 ### Our Business Areas
@@ -96,8 +94,6 @@
 
 ---
 
-<!-- ═══════════════ DEVELOPMENT TOOLS ═══════════════ -->
-
 <h2 align="center">🛠️ LANGUAGES & TOOLS</h2>
 
 <div align="center">
@@ -109,89 +105,5 @@
 **Currently Exploring**
 
 `Agentic AI` • `AI Agents` • `AI Automation` • `Intelligent Workflows`
-
-</div>
-
----
-
-<!-- ═══════════════ TROPHIES ═══════════════ -->
-
-<h2 align="center">🏆 GITHUB ACHIEVEMENTS</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=junaid-aslamtanoli&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-
-</div>
-
----
-
-<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
-
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=junaid-aslamtanoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaid-aslamtanoli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=junaid-aslamtanoli&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-<!-- ═══════════════ CONTRIBUTION GRAPH ═══════════════ -->
-
-<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=junaid-aslamtanoli&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<!-- ═══════════════ SOCIAL LINKS ═══════════════ -->
-
-<h2 align="center">🌐 CONNECT WITH ME</h2>
-
-<div align="center">
-
-<a href="https://linkedin.com/in/junaid-abbasi">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/junaid-aslam-tanoli">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://twitter.com/junaidabbasixd">
-<img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="mailto:junaidabbasixd@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<!-- ═══════════════ FOOTER ═══════════════ -->
-
-<div align="center">
-
-### 🚀 BUILDING BUSINESSES. CREATING SOLUTIONS. EXPLORING AI.
-
-*"The future belongs to those who combine creativity, technology, and execution."*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,50:14213D,100:050816&height=120&section=footer" />
 
 </div>
