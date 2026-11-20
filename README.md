@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junaid Aslam</h1>
-<h3 align="center"> CEO at ITC/VIS/h3>
+<h3 align="center"> CEO at ITC/VIS
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-aslam-tanoli&label=Profile%20views&color=0e75b6&style=flat" alt="junaid-aslam-tanoli" /> </p>
 
